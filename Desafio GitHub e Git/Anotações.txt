@@ -1,0 +1,13 @@
+*Comando para clonar:
+git clone + clicar com o botão esquerdo do mouse e ir em paste, depois aperta enter
+
+*Para entrar na pasta digitar cd + nome da pasta/
+ex: cd cio-desafio/
+
+*Status: git status 
+
+*Enviar alterações para o GitHub online:
+git add . adiciona todos os arquivos da pasta
+git add -A
+
+git commit -m "Inclusão das anotações do curso de Git/GitHub"
