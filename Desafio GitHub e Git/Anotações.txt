@@ -11,3 +11,8 @@ git add . adiciona todos os arquivos da pasta
 git add -A
 
 git commit -m "Inclusão das anotações do curso de Git/GitHub"
+
+
+Precisei informar quem era eu antes de inserir o git commit:
+git config --global user.email "yn.yayanascimento@gmail.com"
+git config --global user.name "YayaNasc"
